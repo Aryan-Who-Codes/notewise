@@ -19,7 +19,7 @@
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/ai-pdf-notes.git
+git clone https://github.com/Aryan-Who-Codes/notewise.git
 ```
 
 2. Install dependencies:
@@ -136,15 +136,15 @@ ai-pdf-notes/
 
 ## 🤝 Join Our Community
 
-- 🌟 [Star us on GitHub](https://github.com/yourusername/ai-pdf-notes)
-- 🐦 [Follow us on X](https://twitter.com/aipdfnotes)
-- 💬 [Join our Discord](https://discord.gg/aipdfnotes)
+- 🌟 [Star us on GitHub](https://github.com/Aryan-Who-Codes/notewise)
+- 🐦 [Follow us on X](https://twitter.com/#notewise)
+- 💬 [Join our Discord](https://discord.gg/#notewise)
 
 ## 🆘 Need Help?
 
-- 📚 [Documentation](https://docs.aipdfnotes.com)
-- 💭 [Community Forums](https://community.aipdfnotes.com)
-- 🎫 [Issue Tracker](https://github.com/yourusername/ai-pdf-notes/issues)
+- 📚 [Documentation](https://docs.notewise.com)
+- 💭 [Community Forums](https://community.notewise.com)
+- 🎫 [Issue Tracker](https://github.com/Aryan-Who-codes/notewise/issues)
 
 ## 📜 License & Legal
 
